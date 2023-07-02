@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in programming,web and mobile app development,Databases...
 - 🌱 I’m currently pursuing a Master's in Decisionel Business and intelligence applied in management
-- 📫 reach me at Sebairaja@gmail.com
+- 📫 reach me at Sebairaja55@gmail.com
 
 <!---
 SebaiRaja1/SebaiRaja1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
